@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if else hesaplama 1359", "if else hesaplama 1359\if else hesaplama 1359.csproj", "{A1246370-2497-46ED-BD09-754AAF2B127D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1246370-2497-46ED-BD09-754AAF2B127D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1246370-2497-46ED-BD09-754AAF2B127D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1246370-2497-46ED-BD09-754AAF2B127D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1246370-2497-46ED-BD09-754AAF2B127D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39DAD13-9176-467D-B4EA-79BFC17B8AE8}
+	EndGlobalSection
+EndGlobal
